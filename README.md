@@ -5,8 +5,8 @@ Gem Farm is a collection of on-chain Solana programs for NFT ("gem" 💎) stakin
 
 It consists of:
 
-- Gem Bank 🏦 - responsible for storing NFTs, lets you configure which mints are/not allowed into the vaults
-- Gem Farm 🧑‍🌾 - responsible for issuing rewards, lets you configure fixed/variable rates, lock up periods, fees, rarities & more
+- Gem Bank - responsible for storing NFTs, lets you configure which mints are/not allowed into the vaults
+- Gem Farm - responsible for issuing rewards, lets you configure fixed/variable rates, lock up periods, fees, rarities & more
 
 Gem Bank is used under the hood by Gem Farm.
 
