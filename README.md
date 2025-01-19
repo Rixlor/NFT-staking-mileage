@@ -64,4 +64,4 @@ The steps to take are as follows:
 
 Extensive documentation is available [here](https://docs.gemworks.gg/).
 
-The answer you're looking for is probably there. Pls don't DM with random questions.
+The answer you're looking for is probably there. Please don't DM with random questions.
